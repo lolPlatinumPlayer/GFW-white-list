@@ -47,6 +47,8 @@ tool
 *lanhuapp.com
 *apache.org
 *gitee.com
+*eleme.cn
+*ant.design
 /
 /
 other
