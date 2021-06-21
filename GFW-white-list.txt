@@ -49,6 +49,7 @@ tool
 *gitee.com
 *eleme.cn
 *ant.design
+*uviewui.com
 /
 /
 other
