@@ -18,6 +18,7 @@ big site
 *aliyun.com
 *kdocs.cn
 *zhihu.com
+*zhimg.com
 /
 /
 blog
