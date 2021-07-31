@@ -51,6 +51,11 @@ tool
 *eleme.cn
 *ant.design
 *uviewui.com
+*mapbox.cn
+*google.cn
+*dcloud.io
+*cocos.com
+*cocos.org
 /
 /
 other
