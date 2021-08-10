@@ -19,6 +19,9 @@ big site
 *kdocs.cn
 *zhihu.com
 *zhimg.com
+*163.com
+*cctv.com
+*gov.cn
 /
 /
 blog
