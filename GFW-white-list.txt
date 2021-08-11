@@ -9,6 +9,7 @@ big site
 *bdydns.com
 *qq.com
 *idqqimg.com
+*weixinbridge.com
 *alicdn.com
 *taobaocdn.com
 *aliyuncs.com
