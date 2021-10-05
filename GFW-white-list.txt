@@ -7,6 +7,7 @@ big site
 *bdstatic.com
 *baidustatic.com
 *bdydns.com
+*bcebos.com
 *qq.com
 *idqqimg.com
 *weixinbridge.com
@@ -17,6 +18,7 @@ big site
 *aliapp.org
 *alibaba.com
 *aliyun.com
+*huawei.com
 *kdocs.cn
 *zhihu.com
 *zhimg.com
@@ -67,6 +69,8 @@ tool
 *gitee.com
 *gitee.io
 *google.cn
+*harmonyos.com
+*hmxt.org
 /
 /
 other
