@@ -19,6 +19,7 @@ big site
 *alibaba.com
 *aliyun.com
 *huawei.com
+*hicloud.com
 *kdocs.cn
 *zhihu.com
 *zhimg.com
@@ -59,6 +60,8 @@ code tech
 *html5plus.org
 *uviewui.com
 *vuejs.org
+*harmonyos.com
+*hmxt.org
 /
 /
 tool
@@ -69,8 +72,6 @@ tool
 *gitee.com
 *gitee.io
 *google.cn
-*harmonyos.com
-*hmxt.org
 /
 /
 other
