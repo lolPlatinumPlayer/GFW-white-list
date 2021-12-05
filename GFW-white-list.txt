@@ -37,8 +37,8 @@ blog
 *tencent.com
 *jianshu.com
 *jianshu.io
-*.nkscdn.com
-*.cnzz.com
+*nkscdn.com
+*cnzz.com
 *html.cn
 *sina.com
 *sohu.com
@@ -85,3 +85,6 @@ public cdn
 other
 *taobao.com
 *bilibili.com
+*hdslb.com
+*bilivideo.com
+*biliapi.net
