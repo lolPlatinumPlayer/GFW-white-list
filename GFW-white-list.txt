@@ -9,6 +9,7 @@ big site
 *bdydns.com
 *bcebos.com
 *qq.com
+*qpic.cn
 *idqqimg.com
 *weixinbridge.com
 *alicdn.com
@@ -35,6 +36,9 @@ blog
 *codercto.com
 *tencent.com
 *jianshu.com
+*jianshu.io
+*.nkscdn.com
+*.cnzz.com
 *html.cn
 *sina.com
 *sohu.com
@@ -72,6 +76,10 @@ tool
 *gitee.com
 *gitee.io
 *google.cn
+/
+/
+public cdn
+*jsdelivr.net
 /
 /
 other
