@@ -24,6 +24,7 @@ big site
 *kdocs.cn
 *zhihu.com
 *zhimg.com
+*microsoft.com
 *163.com
 *cctv.com
 *gov.cn
@@ -45,6 +46,7 @@ blog
 *juejin.cn
 *imooc.com
 *ainoob.cn
+*51cto.com
 /
 /
 tutorial
@@ -53,19 +55,46 @@ tutorial
 *docschina.org
 /
 /
-code tech
+front end tech
+*vuejs.org
+*react.dev
+*angular.cn
 *eleme.cn
 *ant.design
 *uviewui.com
 *mapbox.cn
+*html5plus.org
+*dcloud.io
+*uviewui.com
+*flutter.dev
+*electronjs.org
 *cocos.com
 *cocos.org
-*dcloud.io
-*html5plus.org
-*uviewui.com
-*vuejs.org
 *harmonyos.com
 *hmxt.org
+/
+/
+back end tech
+*spring.io
+*nacos.io
+*linux.org
+*rpm.org
+*gnu.org
+*apache.org
+*nginx-cn.net
+*expressjs.com
+*hutool.cn
+*redis.io
+*dev.java
+*oracle.com
+*mysql.com
+*spring.io
+/
+/
+cross end tech
+*gradle.org
+*nodejs.org
+*thingsboard.io
 /
 /
 tool
